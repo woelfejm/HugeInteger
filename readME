@@ -1,0 +1,7 @@
+This is a simple C++ class containing methods to easily create C++ vectors, as well as simple operations to add 
+and compare vectors of integers. The purpose of this is to easily manipulate integers that would be to large to store 
+as 32 bit longs.
+
+Usage: This code does not contain an interface, so you must replace the code in main.cc with code that creates your vectors, as
+well as the operations you which to perform.
+NOte: main.cc contains some basic test cases for the vector operations
